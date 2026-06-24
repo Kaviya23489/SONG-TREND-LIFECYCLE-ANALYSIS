@@ -158,6 +158,7 @@ Several songs achieved high chart positions but quickly disappeared, demonstrati
 ## 🗄️ SQL Analysis Performed
 
 1.Find the top 10 songs with the highest number of weeks on the chart. 
+
 2.Which songs stayed on the chart for the longest period? 
 3.Which songs reached their peak rank the fastest? 
 4.Which songs had the highest total streams overall? 
