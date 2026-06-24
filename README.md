@@ -160,28 +160,51 @@ Several songs achieved high chart positions but quickly disappeared, demonstrati
 1.Find the top 10 songs with the highest number of weeks on the chart. 
 
 2.Which songs stayed on the chart for the longest period? 
+
 3.Which songs reached their peak rank the fastest? 
-4.Which songs had the highest total streams overall? 
-5.Which songs showed the biggest drop from peak week to last appearance? 
-6.Which songs improved the most in rank compared to the previous week? 
-7.Which artists had the most charting songs in the dataset? 
+
+4.Which songs had the highest total streams overall?
+
+5.Which songs showed the biggest drop from peak week to last appearance?
+
+6.Which songs improved the most in rank compared to the previous week?
+
+7.Which artists had the most charting songs in the dataset?
+
 8.Which songs had the strongest early performance but weak ending performance? 
+
 9.Which songs were stable across their chart lifetime with little rank change? 
+
 10.How can songs be categorized into lifecycle patterns using their chart performance metrics? 
+
 11.Which source or label had the most songs with long chart lifetimes? 
+
 12.Which artists have the most songs appearing in the dataset? 
+
 13.How many songs reached the peak rank of #1? 
+
 14.What is the average lifetime of songs across different sources/platforms? 
+
 15.Which songs showed the biggest improvement in ranking compared to their previous rank? 
+
 16.How many songs remained on the chart for more than 50 or 100 weeks? 
+
 17.What is the average number of weeks songs stayed in the dataset? 
+
 18.Which artists achieved the best average peak rank? 
+
 19.Which songs appeared multiple times in the dataset? 
+
 20.How many songs belong to each source/platform? 
+
 21.Find the top 10 songs by total streams accumulated across all their appearances. 
+
 22.Find all songs that reached number one at any point. 
+
 23.Find songs that stayed on the chart the most weeks. 
+
 24.Find songs that reached peak rank the fastest. 
+
 25.Seasonal Debut Patterns – Count the number of new song debuts in each calendar month.
 
 ---
